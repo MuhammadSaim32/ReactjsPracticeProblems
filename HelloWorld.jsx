@@ -1,6 +1,6 @@
-import React, { useState } from "react";
+import React from "react";
 
-function Counter() {
+function Hellow() {
 
 
     return (
@@ -13,4 +13,4 @@ function Counter() {
 
 }
 
-export default Counter;
+export default Hellow;
