@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 
 function Swith() {
 
@@ -18,4 +18,4 @@ function Swith() {
     )
 }
 
-export default List;
+export default Swith;
